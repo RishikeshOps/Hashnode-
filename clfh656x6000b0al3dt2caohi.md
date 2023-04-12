@@ -5,6 +5,7 @@ seoDescription: "Get the Latest Kubernetes Cheat Sheet for Simplifying Container
 datePublished: Mon Mar 20 2023 18:37:05 GMT+0000 (Coordinated Universal Time)
 cuid: clfh656x6000b0al3dt2caohi
 slug: get-the-latest-kubernetes-cheat-sheet-for-simplifying-container-orchestration
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681275127132/cfc07cb5-7447-4b75-bc04-38d1b03ad8b5.webp
 tags: kubernetes, devops, cheatsheet, container-orchestration, rishikeshops
 
 ---
