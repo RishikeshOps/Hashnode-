@@ -4,6 +4,7 @@ seoTitle: "Secure Domains & Apps for Free: Let's Encrypt, Docker, Nginx Guide"
 datePublished: Tue Apr 18 2023 17:45:39 GMT+0000 (Coordinated Universal Time)
 cuid: clgmk2qfm01bj3cnv81d51pv2
 slug: deploy-your-application-and-secure-your-domains-for-free-with-lets-encrypt-on-docker-compose-and-nginx
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681841021333/17c7696a-143c-4c86-abe2-fb159402041d.jpeg
 tags: automation, devops, ssl-certificate, docker-compose, rishikeshops
 
 ---
